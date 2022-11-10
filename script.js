@@ -36,5 +36,5 @@ theater
   .addScene('vader:Hả', 800)
   .addScene('vader:Yeahhhhh', 1600)
   .addScene('vader:Bố mẹ ơi con có người iu rồi!!! ', 800)
-  .addScene('vader:Cậu ơi lên đồ đi tối này tớ đãi cậu trà đá Bách Khoa nha', 2000)
+  .addScene('vader:Cậu ơi lên đồ đi tối nay tớ đãi cậu trà đá Bách Khoa nha', 2000)
   .addScene(theater.replay.bind(theater))
