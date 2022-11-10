@@ -32,7 +32,7 @@ theater
   .addScene('luke:Ơ... ', 800)
   .addScene('luke:Ờ thì...', 1600)
   .addScene('luke:Tớ cũng thích cậu lâu rùi ó', 800)
-  .addScene('luke:...<3 ', 80)
+  .addScene('luke:...<3 ', 400)
   .addScene('vader:Hả', 800)
   .addScene('vader:Yeahhhhh', 1600)
   .addScene('vader:Bố mẹ ơi con có người iu rồi!!! ', 800)
